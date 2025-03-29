@@ -2,7 +2,7 @@
 
 import {
   motion,
-  useMotionValueEvent,
+
   useScroll,
   useTransform,
 } from "motion/react";
