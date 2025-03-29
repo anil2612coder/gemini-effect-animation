@@ -37,7 +37,7 @@ export default function Home() {
 
   return (
     <>
-      <div className="h-screen w-full bg-red-500  z-[-1]"></div>
+      {/* <div className="h-screen w-full bg-red-500  z-[-1]"></div> */}
       <div ref={inputRef} className="flex w-full h-[300vh] w-full relative " >
         <div className="w-full h-[100vh] bg-black  sticky top-0 ">
           <svg
